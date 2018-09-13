@@ -1,0 +1,176 @@
+<p class="">comme nous le savons,chaque etre humain doit avoir aumoin une idee e ce qu'il aime etre,faire dans la vie</br>pour reussir sa vie,il faut avoir des objetifs claires et precis donc savoir ce que vous voulez vraiment pour ne pas regretté plus tard ,on le choisi en tenant compte de vos potentiel</p>
+
+
+<p class="">avoir une passion c'est bien ,mais ce n'est pas suffisant car avant vous il y a eu des personnes qui se seont lancé precipitament dans l'activité sans s'etre informé et on fini par echouer.ce pourquoi moi,je vous conseillerai de vous informez,d'apprendre et de maitrisé celà car etre passionner d'une chose ne vous garanti pas e succés,elle ne suffit pas pour atteindre vos objetif.vous pouvez aussi passé par la formation meme si votre passion n'en requiet aucun</p>
+
+
+
+<p class="">apres avoir examiner,se renseigner sur l'activité maintenant savoir comment nonetisé celà.tracer votre marge à suivre faire son plan avec tout les element neccessaire,savoir comment se lancé dans le marché<br>et on decole</p>
+
+<p class="">si vous terninerà elaborer votre plan alors vous pouvez debuter votre activités ,metre tout en odre comme tel elaborer et debuter</p>
+
+
+
+! Methode.html
+
+<div class="col-lg-4 ">
+  <div class="div-img-bg">
+  </div>
+</div>
+
+
+        <div class="col-lg-7">
+          <div class="about-descr">
+
+            <p class="p-heading">je suis tres contente de partager quelque ideé avec vous et je crios que celà vous servirez pour etre un bon entrepreneur</p></div><br><br><br><br>
+            <p class="separator">l'objetif de ce site est de vous apprendre et de vous aidez a bien realiser vos reves en vous facicilitant de creer une activité commercial selon vos ambition et vos competences afin de faire de vous des entrepreneurs
+            <br><br><br><br><br>
+
+            <div id="contact" class="paddsection">
+              <div class="container">
+                <div class="contact-block1">
+                  <div class="row">
+
+                    <div class="col-lg-6">
+                      <div class="contact-contact">
+
+                        <h2 class="mb-30">NOUS CONTACTER</h2>
+
+                        <ul class="contact-details">
+                          <li><span>1,avenue fina</span></li>
+                          <li><span>limete/kinshasa</span></li>
+                          <li><span>+243 81461085</span></li>
+                          <li><span>nzebabenie17@gmail.com</span></li>
+                        </ul>
+
+                      </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                      <form action="" method="post" role="form" class="contactForm">
+                        <div class="row">
+
+                          <div id="sendmessage">Votre message est bien envoyé! merci</div>
+                          <div id="errormessage"></div>
+
+                          <div class="col-lg-6">
+                            <div class="form-group contact-block1">
+                              <input type="text" nom="nom" class="form-control" id="nom" placeholder="Votre nom" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                              <div class="validation"></div>
+                            </div>
+                          </div>
+
+                          <div class="col-lg-6">
+                            <div class="form-group">
+                              <input type="email" class="form-control" nom="email" id="email" placeholder=" Votre Email" data-rule="email" data-msg="Please enter a valid email" />
+                              <div class="validation"></div>
+                            </div>
+                          </div>
+
+                          <div class="col-lg-12">
+                            <div class="form-group">
+                              <input type="text" class="form-control" name="subject" id="subject" placeholder="Qu'est-ce qui vous a interessé" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                              <div class="validation"></div>
+                            </div>
+                          </div>
+
+                          <div class="col-lg-12">
+                            <div class="form-group">
+                              <textarea class="form-control" name="message" rows="12" data-rule="required" data-msg="Please write something for us" placeholder="Votre experience"></textarea>
+                              <div class="validation"></div>
+                            </div>
+                          </div>
+
+                          <div class="col-lg-12">
+                            <input type="submit" class="btn btn-defeault btn-send" value="Envoyer">
+                          </div>
+
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- start sectoion contact -->
+
+
+            <!-- start section footer -->
+            <div id="footer" class="text-center">
+              <div class="container">
+                <div class="socials-media text-center">
+
+                  <ul class="list-unstyled">
+                    <li><a href="#"><i class="ion-social-facebook"></i></a></li>
+                    <li><a href="#"><i class="ion-social-twitter"></i></a></li>
+                    <li><a href="#"><i class="ion-social-instagram"></i></a></li>
+                    <li><a href="#"><i class="ion-social-googleplus"></i></a></li>
+                    <li><a href="#"><i class="ion-social-tumblr"></i></a></li>
+                    <li><a href="#"><i class="ion-social-dribbble"></i></a></li>
+                  </ul>
+
+                </div>
+
+                <p>&copy; Copyrights Cogasa. All rights reserved.</p>
+
+                <div class="credits">
+                  <!--
+                    All the links in the footer should remain intact.
+                    You can delete the links only if you purchased the pro version.
+                    Licensing information: https://bootstrapmade.com/license/
+                    Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Folio
+                  -->
+                  Designed by <a href="https://bootstrapmade.com/">NZEBA BENIE</a>
+                </div>
+
+              </div>
+            </div>
+
+
+              <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Playfair+Display:400,400i,700,700i,900,900i" rel="stylesheet">
+
+                <img src="FINAL2.jpg" alt="Los Angeles">
+
+                <div class="carousel-inner">
+                   <div class="item active">
+
+                  </div>
+
+                  <div class="item">
+                    <img src="FINAL3.jpg" alt="Chicago">
+                  </div>
+
+                  <div class="item">
+                    <img src="final1.jpg" alt="New York">
+                  </div>
+                </div>
+
+                <div id="header" class="home">
+
+                  <div class="container">
+                    <div class="header-content">
+                      <div class="about-img">
+                        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                            <!-- Indicators -->
+                            <ol class="carousel-indicators">
+                              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                              <li data-target="#myCarousel" data-slide-to="1"></li>
+                              <li data-target="#myCarousel" data-slide-to="2"></li>
+                            </ol>
+                <!-- Wrapper for slides -->
+
+
+                <!-- Left and right controls -->
+                            <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                              <span class="glyphicon glyphicon-chevron-left"></span>
+                              <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                              <span class="glyphicon glyphicon-chevron-right"></span>
+                              <span class="sr-only">Next</span>
+                            </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
